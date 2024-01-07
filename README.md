@@ -1,5 +1,5 @@
 # QUIZ PBWL
-Project ini dibangun menggunakan <a href="https://laravel.com">Laravel</a> untuk menyelesaikan quiz pada pata kuliah PBWL.
+Project ini dibangun menggunakan <a href="https://laravel.com">Laravel</a> untuk menyelesaikan UAS pada mata kuliah PBWL.
 
 ## Sistem Yang Dibutuhkan
 - PHP ^8.1
